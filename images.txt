@@ -1,1 +1,3 @@
 qwenllm/qwen:cu121
+mysql:5.7
+redis
