@@ -1,4 +1,5 @@
-qwenllm/qwen:cu121
+qwen:cu121
+qwen:2-cu121
 mysql:5.7
 redis
 #centos7.9 + jdk1.8
