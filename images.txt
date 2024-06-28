@@ -4,3 +4,4 @@ mysql:5.7
 redis
 #centos7.9 + jdk1.8
 canal/osbase:v3-amd64
+ollama/ollama:latest
