@@ -1,8 +1,8 @@
-qwenllm/qwen:cu121
-qwenllm/qwen:2-cu121
-mysql:5.7
-redis
+#qwenllm/qwen:cu121
+#qwenllm/qwen:2-cu121
+#mysql:5.7
+#redis
 #centos7.9 + jdk1.8
-canal/osbase:v3-amd64
+#canal/osbase:v3-amd64
 ollama/ollama:latest
-mingsoft/mcms
+#mingsoft/mcms
