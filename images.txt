@@ -6,4 +6,5 @@
 #canal/osbase:v3-amd64
 #ollama/ollama:latest
 #mingsoft/mcms
-open-webui:main-ollama
+#open-webui:main-ollama
+hello-world
