@@ -7,4 +7,5 @@
 #ollama/ollama:latest
 #mingsoft/mcms
 #open-webui:main-ollama
-hello-world
+#hello-world
+open-webui:ollama
