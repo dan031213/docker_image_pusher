@@ -4,5 +4,6 @@
 #redis
 #centos7.9 + jdk1.8
 #canal/osbase:v3-amd64
-ollama/ollama:latest
+#ollama/ollama:latest
 #mingsoft/mcms
+open-webui:latest-ollama
