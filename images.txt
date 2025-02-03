@@ -8,4 +8,4 @@
 #mingsoft/mcms
 #open-webui:main-ollama
 #hello-world
-open-webui:ollama
+dyrnq/open-webui:latest-ollama
