@@ -8,4 +8,5 @@
 #mingsoft/mcms
 #open-webui:main-ollama
 #hello-world
-dyrnq/open-webui:latest-ollama
+#dyrnq/open-webui:latest-ollama
+youfak/jd_h5st_server:latest
