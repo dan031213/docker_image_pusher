@@ -9,4 +9,5 @@
 #open-webui:main-ollama
 #hello-world
 #dyrnq/open-webui:latest-ollama
-youfak/jd_h5st_server:latest
+#youfak/jd_h5st_server:latest
+shufflewzc/qrbbitpro
