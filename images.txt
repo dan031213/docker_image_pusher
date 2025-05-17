@@ -11,4 +11,5 @@
 #dyrnq/open-webui:latest-ollama
 #youfak/jd_h5st_server:latest
 #shufflewzc/qrbbitpro
-anmour/bncr
+#anmour/bncr
+yanyu.icu/containrrr/watchtower
