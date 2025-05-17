@@ -10,4 +10,5 @@
 #hello-world
 #dyrnq/open-webui:latest-ollama
 #youfak/jd_h5st_server:latest
-shufflewzc/qrbbitpro
+#shufflewzc/qrbbitpro
+anmour/bncr
